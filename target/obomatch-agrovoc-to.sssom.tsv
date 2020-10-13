@@ -1,0 +1,118 @@
+#license: "https://creativecommons.org/publicdomain/zero/1.0/"
+#mapping_tool: "https://github.com/cmungall/rdf_matcher"
+#mapping_date: "2020-10-09"
+#curie_map:
+#  AGRO: "http://purl.obolibrary.org/obo/AGRO_"
+#  BFO: "http://purl.obolibrary.org/obo/BFO_"
+#  CARO: "http://purl.obolibrary.org/obo/CARO_"
+#  CHEBI: "http://purl.obolibrary.org/obo/CHEBI_"
+#  ENVO: "http://purl.obolibrary.org/obo/ENVO_"
+#  FOODON: "http://purl.obolibrary.org/obo/FOODON_"
+#  GO: "http://purl.obolibrary.org/obo/GO_"
+#  IAO: "http://purl.obolibrary.org/obo/IAO_"
+#  NCBITaxon: "http://purl.obolibrary.org/obo/NCBITaxon_"
+#  OBI: "http://purl.obolibrary.org/obo/OBI_"
+#  PATO: "http://purl.obolibrary.org/obo/PATO_"
+#  PECO: "http://purl.obolibrary.org/obo/PECO_"
+#  PO: "http://purl.obolibrary.org/obo/PO_"
+#  RO: "http://purl.obolibrary.org/obo/RO_"
+#  TO: "http://purl.obolibrary.org/obo/TO_"
+#  agrovoc: "http://aims.fao.org/aos/agrovoc/"
+#  dc: "http://purl.org/dc/elements/1.1/"
+#  oio: "http://www.geneontology.org/formats/oboInOwl#"
+#  owl: "http://www.w3.org/2002/07/owl#"
+#  skos: "http://www.w3.org/2004/02/skos/core#"
+subject_id	subject_label	predicate_id	object_id	object_label	match_type	subject_source	object_source	mapping_tool	confidence	subject_match_field	object_match_field	subject_category	object_category	match_string	match_category	comment
+agrovoc:c_15adb263	forage yield	owl:equivalentClass	TO:0000388	forage yield	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	forage yield	unique	.
+agrovoc:c_15adb263	forage yield	owl:equivalentClass	TO:0000388	forage yield	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	forage yield	unique	.
+agrovoc:c_16151	water tolerance	owl:equivalentClass	TO:0000524	submergence tolerance	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:altLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	submergence toler	unique	.
+agrovoc:c_16151	water tolerance	owl:equivalentClass	TO:0000524	submergence tolerance	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:altLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	submergence tolerance	unique	.
+agrovoc:c_15179	seed viability	owl:equivalentClass	TO:0000345	seed viability	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	seed viability	unique	.
+agrovoc:c_15179	seed viability	owl:equivalentClass	TO:0000345	seed viability	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	seed viabl	unique	.
+agrovoc:c_24854	harvest index	owl:equivalentClass	TO:0000128	harvest index	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	harvest index	unique	.
+agrovoc:c_24854	harvest index	owl:equivalentClass	TO:0000128	harvest index	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	harvest index	unique	.
+agrovoc:c_24854	harvest index	owl:equivalentClass	TO:0000128	harvest index	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	harvest index	unique	.
+agrovoc:c_24854	harvest index	owl:equivalentClass	TO:0000128	harvest index	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	harvest index	unique	.
+agrovoc:c_24232	root length	owl:equivalentClass	TO:0000227	root length	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	root length	unique	.
+agrovoc:c_24232	root length	owl:equivalentClass	TO:0000227	root length	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	root length	unique	.
+agrovoc:c_14581	stem length	owl:equivalentClass	TO:0000576	stem length	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	stem length	unique	.
+agrovoc:c_14581	stem length	owl:equivalentClass	TO:0000576	stem length	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	stem length	unique	.
+agrovoc:c_35196	Leaf Area Index	owl:equivalentClass	TO:0012001	leaf area index	Lexical	agrovoc	TO	rdf_matcher	0.810860176054461	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	leaf area index	unique	.
+agrovoc:c_35196	Leaf Area Index	owl:equivalentClass	TO:0012001	leaf area index	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.7519492530313434	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	leaf area index	unique	.
+agrovoc:c_f52b8ef5	boron content	owl:equivalentClass	TO:0006043	boron content	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	boron cont	unique	.
+agrovoc:c_f52b8ef5	boron content	owl:equivalentClass	TO:0006043	boron content	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	boron content	unique	.
+agrovoc:c_fd3b4e3c	phyllotaxy	owl:equivalentClass	TO:0006014	phyllotaxy	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.6666666666666666	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	phyllotaxi	unique	.
+agrovoc:c_fd3b4e3c	phyllotaxy	owl:equivalentClass	TO:0006014	phyllotaxy	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.6666666666666666	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	phyllotaxi	unique	.
+agrovoc:c_fd3b4e3c	phyllotaxy	owl:equivalentClass	TO:0006014	phyllotaxy	Lexical	agrovoc	TO	rdf_matcher	0.7387961250362586	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	phyllotaxy	unique	.
+agrovoc:c_fd3b4e3c	phyllotaxy	owl:equivalentClass	TO:0006014	phyllotaxy	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.6666666666666666	skos:altLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	phyllotaxi	unique	.
+agrovoc:c_34302	juiciness	owl:equivalentClass	TO:0000686	juiciness	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.6666666666666666	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	juici	unique	.
+agrovoc:c_34302	juiciness	owl:equivalentClass	TO:0000686	juiciness	Lexical	agrovoc	TO	rdf_matcher	0.7387961250362586	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	juiciness	unique	.
+agrovoc:c_37254	stomatal resistance	owl:equivalentClass	TO:0000523	stomatal resistance	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	stomatal resist	unique	.
+agrovoc:c_37254	stomatal resistance	owl:equivalentClass	TO:0000523	stomatal resistance	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	stomatal resist	unique	.
+agrovoc:c_37254	stomatal resistance	owl:equivalentClass	TO:0000523	stomatal resistance	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	stomatal resistance	unique	.
+agrovoc:c_37254	stomatal resistance	owl:equivalentClass	TO:0000523	stomatal resistance	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	stomatal resistance	unique	.
+agrovoc:c_24078	salt tolerance	owl:equivalentClass	TO:0006001	salt tolerance	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	salt toler	unique	.
+agrovoc:c_24078	salt tolerance	owl:equivalentClass	TO:0006001	salt tolerance	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	salt tolerance	unique	.
+agrovoc:c_7387	stem elongation	owl:equivalentClass	TO:0006036	stem elongation	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	stem elong	unique	.
+agrovoc:c_7387	stem elongation	owl:equivalentClass	TO:0006036	stem elongation	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	stem elongation	unique	.
+agrovoc:c_37242	leaf water potential	owl:equivalentClass	TO:0000131	leaf water potential	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.7519492530313434	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	leaf water potenti	unique	.
+agrovoc:c_37242	leaf water potential	owl:equivalentClass	TO:0000131	leaf water potential	Lexical	agrovoc	TO	rdf_matcher	0.810860176054461	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	leaf water potential	unique	.
+agrovoc:c_3705	heterosis	owl:equivalentClass	TO:0000355	heterosis	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.6666666666666666	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	heterosi	unique	.
+agrovoc:c_3705	heterosis	owl:equivalentClass	TO:0000355	heterosis	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.6666666666666666	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	heterosi	unique	.
+agrovoc:c_3705	heterosis	owl:equivalentClass	TO:0000355	heterosis	Lexical	agrovoc	TO	rdf_matcher	0.7387961250362586	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	heterosis	unique	.
+agrovoc:c_3705	heterosis	owl:equivalentClass	TO:0000355	heterosis	Lexical	agrovoc	TO	rdf_matcher	0.7387961250362586	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	heterosis	unique	.
+agrovoc:c_3705	heterosis	owl:equivalentClass	TO:0000355	heterosis	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.6666666666666666	skos:altLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	heterosi	unique	.
+agrovoc:c_3705	heterosis	owl:equivalentClass	TO:0000355	heterosis	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.6666666666666666	skos:altLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	heterosi	unique	.
+agrovoc:c_3705	heterosis	owl:equivalentClass	TO:0000355	heterosis	Lexical	agrovoc	TO	rdf_matcher	0.7387961250362586	skos:altLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	heterosis	unique	.
+agrovoc:c_3705	heterosis	owl:equivalentClass	TO:0000355	heterosis	Lexical	agrovoc	TO	rdf_matcher	0.7387961250362586	skos:altLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	heterosis	unique	.
+agrovoc:c_36749	respiration rate	owl:equivalentClass	TO:0001026	respiration rate	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	respiration r	unique	.
+agrovoc:c_36749	respiration rate	owl:equivalentClass	TO:0001026	respiration rate	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	respiration rate	unique	.
+agrovoc:c_4237	leaf curls	owl:equivalentClass	TO:0002681	leaf curling	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	leaf curl	unique	.
+agrovoc:c_9994	cold tolerance	owl:equivalentClass	TO:0000303	cold tolerance	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	cold toler	unique	.
+agrovoc:c_9994	cold tolerance	owl:equivalentClass	TO:0000303	cold tolerance	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	cold tolerance	unique	.
+agrovoc:c_36790	water use efficiency	owl:equivalentClass	TO:0001017	water use efficiency	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.7519492530313434	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	water use effici	unique	.
+agrovoc:c_36790	water use efficiency	owl:equivalentClass	TO:0001017	water use efficiency	Lexical	agrovoc	TO	rdf_matcher	0.810860176054461	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	water use efficiency	unique	.
+agrovoc:c_37253	stomatal conductance	owl:equivalentClass	TO:0000522	stomatal conductance	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	stomatal conduct	unique	.
+agrovoc:c_37253	stomatal conductance	owl:equivalentClass	TO:0000522	stomatal conductance	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	stomatal conduct	unique	.
+agrovoc:c_37253	stomatal conductance	owl:equivalentClass	TO:0000522	stomatal conductance	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	stomatal conductance	unique	.
+agrovoc:c_37253	stomatal conductance	owl:equivalentClass	TO:0000522	stomatal conductance	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	stomatal conductance	unique	.
+agrovoc:c_14168	seed dormancy	owl:equivalentClass	TO:0000253	seed dormancy	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	seed dorm	unique	.
+agrovoc:c_14168	seed dormancy	owl:equivalentClass	TO:0000253	seed dormancy	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	seed dormancy	unique	.
+agrovoc:c_8837	anther culture	owl:equivalentClass	TO:0000425	anther culturability	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	anr cultur	unique	.
+agrovoc:c_6934	seed longevity	owl:equivalentClass	TO:0000435	seed longevity	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	seed longev	unique	.
+agrovoc:c_6934	seed longevity	owl:equivalentClass	TO:0000435	seed longevity	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	seed longevity	unique	.
+agrovoc:c_330644	grass weeds	owl:equivalentClass	TO:0000343	grass weed	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	grass we	unique	.
+agrovoc:c_14914	drought tolerance	owl:equivalentClass	TO:0000276	drought tolerance	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	drought toler	unique	.
+agrovoc:c_14914	drought tolerance	owl:equivalentClass	TO:0000276	drought tolerance	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	drought tolerance	unique	.
+agrovoc:c_37481	oxidative stress	owl:equivalentClass	TO:0002657	oxidative stress	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	oxidative stress	unique	.
+agrovoc:c_37481	oxidative stress	owl:equivalentClass	TO:0002657	oxidative stress	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	oxidative stress	unique	.
+agrovoc:c_63a4df58	phosphorus content	owl:equivalentClass	TO:0001024	phosphorus content	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	phosphorus cont	unique	.
+agrovoc:c_63a4df58	phosphorus content	owl:equivalentClass	TO:0001024	phosphorus content	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	phosphorus content	unique	.
+agrovoc:c_11486	heat tolerance	owl:equivalentClass	TO:0000259	heat tolerance	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	heat toler	unique	.
+agrovoc:c_11486	heat tolerance	owl:equivalentClass	TO:0000259	heat tolerance	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	heat tolerance	unique	.
+agrovoc:c_6251	protein content	owl:equivalentClass	TO:0000598	protein content	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	protein cont	unique	.
+agrovoc:c_6251	protein content	owl:equivalentClass	TO:0000598	protein content	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	protein content	unique	.
+agrovoc:c_2328	disease resistance	owl:equivalentClass	TO:0000112	disease resistance	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	disease resist	unique	.
+agrovoc:c_2328	disease resistance	owl:equivalentClass	TO:0000112	disease resistance	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	disease resistance	unique	.
+agrovoc:c_5193	nitrogen content	owl:equivalentClass	TO:0020093	nitrogen content	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	nitrogen cont	unique	.
+agrovoc:c_5193	nitrogen content	owl:equivalentClass	TO:0020093	nitrogen content	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	nitrogen content	unique	.
+agrovoc:c_665	ash content	owl:equivalentClass	TO:0000607	ash content	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	ash cont	unique	.
+agrovoc:c_665	ash content	owl:equivalentClass	TO:0000607	ash content	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	ash content	unique	.
+agrovoc:c_3246	germinability	owl:equivalentClass	TO:0000430	germination rate	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:altLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	germination r	unique	.
+agrovoc:c_3246	germinability	owl:equivalentClass	TO:0000430	germination rate	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:altLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	germination rate	unique	.
+agrovoc:c_f3019d2b	seed shattering	owl:equivalentClass	TO:0000930	seed shattering	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	seed shatt	unique	.
+agrovoc:c_f3019d2b	seed shattering	owl:equivalentClass	TO:0000930	seed shattering	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	seed shattering	unique	.
+agrovoc:c_333f7c24	seed maturation	owl:equivalentClass	TO:0002661	seed maturation	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	seed matur	unique	.
+agrovoc:c_333f7c24	seed maturation	owl:equivalentClass	TO:0002661	seed maturation	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	seed maturation	unique	.
+agrovoc:c_36510	seed weight	owl:equivalentClass	TO:0000181	seed weight	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	seed weight	unique	.
+agrovoc:c_36510	seed weight	owl:equivalentClass	TO:0000181	seed weight	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	seed weight	unique	.
+agrovoc:c_26821	seed size	owl:equivalentClass	TO:0000391	seed size	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	seed siz	unique	.
+agrovoc:c_26821	seed size	owl:equivalentClass	TO:0000391	seed size	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	seed size	unique	.
+agrovoc:c_4537	male infertility	owl:equivalentClass	TO:0000437	male sterility	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.71117372060607	skos:altLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	male steril	unique	.
+agrovoc:c_4537	male infertility	owl:equivalentClass	TO:0000437	male sterility	Lexical	agrovoc	TO	rdf_matcher	0.7768953867957378	skos:altLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	male sterility	unique	.
+agrovoc:c_27498	cytoplasmic male sterility	owl:equivalentClass	TO:0000580	cytoplasmic male sterility	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.7519492530313434	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	cytoplasmic male steril	unique	.
+agrovoc:c_27498	cytoplasmic male sterility	owl:equivalentClass	TO:0000580	cytoplasmic male sterility	Lexical	agrovoc	TO	rdf_matcher	0.810860176054461	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	cytoplasmic male sterility	unique	.
+agrovoc:c_1298	carbohydrate content	owl:equivalentClass	TO:0000291	carbohydrate content	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.6351831056874558	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	carbohydrate cont	one_to_many	.
+agrovoc:c_1298	carbohydrate content	owl:equivalentClass	TO:0000291	carbohydrate content	Lexical	agrovoc	TO	rdf_matcher	0.71117372060607	skos:prefLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	carbohydrate content	one_to_many	.
+agrovoc:c_1298	carbohydrate content	owl:equivalentClass	TO:0000333	sugar content	Lexical|Stemming	agrovoc	TO	rdf_matcher	0.6351831056874558	skos:altLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	sugar cont	one_to_many	.
+agrovoc:c_1298	carbohydrate content	owl:equivalentClass	TO:0000333	sugar content	Lexical	agrovoc	TO	rdf_matcher	0.71117372060607	skos:altLabel	rdfs:label	http://aims.fao.org/aos/agrovoc	plant_trait_ontology	sugar content	one_to_many	.

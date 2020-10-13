@@ -1,0 +1,16 @@
+@prefix ENVO: <http://purl.obolibrary.org/obo/ENVO_> .
+@prefix biolink: <https://w3id.org/biolink/vocab/> .
+@prefix sh:	<http://www.w3.org/ns/shacl#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+
+[
+  sh:declare
+   [ sh:prefix "bl" ; sh:namespace "https://w3id.org/biolink/vocab/"]
+] .
+
+    ENVO:01000813 biolink:category biolink:EnvironmentalFeature .
+    ENVO:01000254 biolink:category biolink:EnvironmentalSystem .
+    ENVO:02500000 biolink:category biolink:EnvironmentalProcess .
+    ENVO:01000408 biolink:category biolink:EnvironmentalZone .
+    BFO:0000040  biolink:category biolink:MaterialEntity .
+    PATO:0000001 biolink:category biolink:Characteristic .
