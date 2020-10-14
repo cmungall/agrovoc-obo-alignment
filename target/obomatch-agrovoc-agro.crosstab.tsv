@@ -1,2 +1,26 @@
 subject_category	AGRO:00000472	AGRO:00000473	AGRO:00000481	AGRO:00002008	AGRO:00002009	AGRO:00002010	AGRO:00002027	AGRO:00002030	AGRO:00002039	AGRO:00002040	AGRO:00002042	AGRO:00002046	AGRO:00010002	AGRO:00020001	AGRO:00020004	AGRO:00020007	AGRO:00020008	AGRO:00020009	bl:EnvironmentalFeature	bl:EnvironmentalZone	entity	experimental condition	implement traction source	role
-http://aims.fao.org/aos/agrovoc	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	23	384	6	2	2
+activities	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	3	106	0	0	0
+activities|land management	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0
+activities|subjects	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0
+activities|systems	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0
+entities	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	0	0	0
+entities|state	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+factors	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+features	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0
+groups	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+measure	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	10	0	0	0
+methods	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	47	0	0	0
+objects	1	1	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	4	34	0	0	0
+organisms	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0
+phenomena	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	2	0
+processes	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0
+products	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0
+products|substances	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0
+properties	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+resources	0	0	0	0	0	0	0	0	1	1	0	1	0	1	0	1	1	1	0	0	10	0	0	2
+site	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0
+stages	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0
+subjects	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+substances	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	26	0	0	0
+systems	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0
+time	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0

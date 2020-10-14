@@ -8,14 +8,16 @@
 # ----------------------------------------
 # TOP LEVEL TARGET
 # ----------------------------------------
-all: align_all
+all: align_all summarize_all
 setup: 
 clean:
 	rm target/*.tsv
 realclean: clean
 
-OBOs = agro envo obi pato po to uberon chebi mondo
+OBOs = ro uo agro envo obi pato po to uberon chebi mondo oba
+
 align_all: $(patsubst %, target/obomatch-agrovoc-%.sssom.tsv, $(OBOs))
+summarize_all: $(patsubst %, target/obomatch-agrovoc-%.crosstab.tsv, $(OBOs))
 
 # ----------------------------------------
 # Downloads
@@ -40,6 +42,7 @@ UC_WILDCARD = $(shell echo '$*' | tr '[:lower:]' '[:upper:]')
 
 target/obomatch-agrovoc-%.sssom.tsv: download/agrovoc_lod.nt
 	obomatch -T -d rdf_matcher \
+	  -g remove_non_english_literals \
 	  -p agrovoc \
 	  --match_prefix $(UC_WILDCARD) \
 	  -w conf/weights.pro \

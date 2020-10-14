@@ -31,6 +31,8 @@ We currently only run over a subset of OBOs. Most relevant ones:
 
 Note that we include even low confidence matches, but every match has a confidence score
 
+Currently we use owl:equivalentClass as predicate in the mappings, but this could be skos:exactMatch. The goal is to provide precise 1:1 mappings.
+
 ## TODO
 
 User boomer to refine mappings

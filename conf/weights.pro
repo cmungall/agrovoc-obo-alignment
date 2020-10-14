@@ -6,16 +6,19 @@ weight(-3, [predicate_id='owl:equivalentClass', any_match_field='oio:hasNarrowSy
 weight(-3, [predicate_id='owl:equivalentClass', any_match_field='oio:hasBroadSynonym']).
 weight(-1, [predicate_id='owl:equivalentClass', any_match_field='oio:hasRelatedSynonym']).
 
+% from sweet
 weight(-3, [subject_source=sweet, object_source='ENVO', subject_category='property']).
 weight(1, [subject_source=sweet, object_source='ENVO', subject_category='realm']).
 weight(1, [subject_source=sweet, object_source='ENVO', subject_category='land region']).
-weight(1, [subject_source=sweet, object_source='ENVO', subject_category='phenomena']).
 
+weight(2, [predicate_id='owl:equivalentClass', subject_category='substances', object_category='chebi_ontology']).
+
+%  need to be more refined
+weight(1, [predicate_id='owl:equivalentClass', subject_source='agrovoc', object_source='AGRO']).
 
 weight(-0.5, [predicate_id='owl:equivalentClass', match_category='one_to_many']).
 weight(-0.5, [predicate_id='owl:equivalentClass', match_category='many_to_one']).
 weight(-1, [predicate_id='owl:equivalentClass', match_category='many_to_many']).
-
 
 % pre-supplied mapping
 weight(4,  [predicate_id='owl:equivalentClass', any_match_field='skos:exactMatch', any_match_field='schema:url']).
