@@ -3,90 +3,90 @@
 #  agrovoc: "http://aims.fao.org/aos/agrovoc/"
 #  skos: "http://www.w3.org/2004/02/skos/core#"
 subject_id	subject_label	predicate_id	object_id	object_label	confidence	comments
-http://purl.obolibrary.org/obo/AGRO_01000015	tillage	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_7771	tillage	0.9	
-http://purl.obolibrary.org/obo/AGRO_00020004	deep tillage	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_36704	deep tillage	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000031	strip-till	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_1516cbf3	strip tillage	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000463	windrowing	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_25674	windrowing	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000204	heat treatment	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_24947	heat treatment	0.9	"heat treatment in AGRV includes pasteurization, cooking, boiling, not only for pests. Use thermal control (alt thermal pest control http://aims.fao.org/aos/agrovoc/c_34347 )"
-http://purl.obolibrary.org/obo/AGRO_00000210	steam treatment	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_7381	steaming	0.9	"not only to kill pests, type of thermal pest control?Use thermal control (alt thermal pest control http://aims.fao.org/aos/agrovoc/c_34347 ) or add steaming (pest control) as NT?"
-http://purl.obolibrary.org/obo/AGRO_00000430	rotational grazing	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_6663	rotational grazing	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000431	continuous grazing	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_36542	continuous grazing	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000432	strip grazing	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_7456	strip grazing	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000434	controlled grazing	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_5497	controlled grazing	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000322	treatment	skos:relatedMatch	http://aims.fao.org/aos/agrovoc/c_27921	treatment date	0.9	application
-http://purl.obolibrary.org/obo/AGRO_00000481	monoculture	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_4915	monoculture	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000369	experiment	skos:relatedMatch	http://aims.fao.org/aos/agrovoc/c_4126	laboratory animals	0.9	"Better ""experimentation""  attern experiments , trials"
-http://purl.obolibrary.org/obo/AGRO_00000115	ratoon	skos:relatedMatch	http://aims.fao.org/aos/agrovoc/c_6462	ratooning	0.9	ratooons
-http://purl.obolibrary.org/obo/AGRO_00000076	farmyard manure	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_2810	farmyard manure	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000078	liquid manure	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_4373	liquid manures	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000080	poultry litter	skos:relatedMatch	http://aims.fao.org/aos/agrovoc/c_434	litter for animals	0.9	"add ""poultry litter"", move from alttlterm? To look at"
-http://purl.obolibrary.org/obo/AGRO_00000081	fish manure	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_27896	fish manure	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000089	cottonseed meal	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_35678	cottonseed meal	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000093	plastic mulch	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_13452	plastic mulches	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000094	landscape fabric	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_33499	geotextiles	0.9	add landscape fabric ?  To look at
-http://purl.obolibrary.org/obo/AGRO_00000098	straw mulch	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_7442	straw mulches	0.9	
-http://purl.obolibrary.org/obo/AGRO_00002009	stubble	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_16650	stubble	0.9	
-http://purl.obolibrary.org/obo/AGRO_00002010	husk	skos:relatedMatch	http://aims.fao.org/aos/agrovoc/c_a93c44a4	Physalis philadelphica	0.9	husks
-http://purl.obolibrary.org/obo/AGRO_00002030	roller	skos:relatedMatch	http://aims.fao.org/aos/agrovoc/c_26201	roller conveyers	0.9	rollers
-http://purl.obolibrary.org/obo/AGRO_00000139	manure spreader	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_25990	manure spreaders	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000396	seed drill	skos:relatedMatch	http://aims.fao.org/aos/agrovoc/c_27912	seed drilling	0.9	seed drills
-http://purl.obolibrary.org/obo/AGRO_00000398	hoe	skos:relatedMatch	http://aims.fao.org/aos/agrovoc/c_3642	hoeing	0.9	hoes
-http://purl.obolibrary.org/obo/AGRO_00000453	green manure	skos:relatedMatch	http://aims.fao.org/aos/agrovoc/c_331154	Senna tora	0.9	sickles
-http://purl.obolibrary.org/obo/AGRO_00000455	flail	skos:relatedMatch	http://aims.fao.org/aos/agrovoc/c_7739	threshing	0.9	flails
-http://purl.obolibrary.org/obo/AGRO_00000456	scythe	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_0a9fbc47	scythes	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000472	tedder	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_7649	tedders	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000473	combine harvester	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_1775	combine harvesters	0.9	
-http://purl.obolibrary.org/obo/AGRO_00002027	baler	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_793	balers	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000129	mouldboard plough	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_25695	mouldboard ploughs	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000130	subsoiler	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_25808	subsoilers	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000131	chisel plough	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_99dd11f2	chisel ploughs	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000393	cultivator	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_2019	cultivators	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000398	hoe	skos:relatedMatch	http://aims.fao.org/aos/agrovoc/c_3642	hoeing	0.9	hoes
-http://purl.obolibrary.org/obo/AGRO_00000124	tractor	skos:relatedMatch	http://aims.fao.org/aos/agrovoc/c_7846	tractor cabs	0.9	tractors
-http://purl.obolibrary.org/obo/AGRO_00000241	irrigation equipment	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_3955	irrigation equipment	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000453	sickle	skos:relatedMatch	http://aims.fao.org/aos/agrovoc/c_331154	Senna tora	0.9	sickles
-http://purl.obolibrary.org/obo/AGRO_00002008	mower	skos:relatedMatch	http://aims.fao.org/aos/agrovoc/c_25726	conditioner mowers	0.9	mowers
-http://purl.obolibrary.org/obo/AGRO_00000075	green manure	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_3375	green manures	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000079	animal manure	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_2810	farmyard manure	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000085	oil cake	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_5336	oilseed cakes	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000086	blood meal	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_966	blood meal	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000088	oil meal	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_5336	oilseed cakes	0.9	
-http://purl.obolibrary.org/obo/AGRO_00020001	biofertilizer	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_24975	biofertilizers	0.9	
-http://purl.obolibrary.org/obo/AGRO_00002046	NPK fertilizer	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_5250	NPK fertilizers	0.9	
-http://purl.obolibrary.org/obo/AGRO_00020007	nitrogen fertilizer	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_5195	nitrogen fertilizers	0.9	
-http://purl.obolibrary.org/obo/AGRO_00020008	phosphorus fertilizer	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_5800	phosphate fertilizers	0.9	
-http://purl.obolibrary.org/obo/AGRO_00020009	potassium fertilizer	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_6138	potash fertilizers	0.9	
-http://purl.obolibrary.org/obo/AGRO_00002039	organic fertilizer	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_4592	organic fertilizers	0.9	
-http://purl.obolibrary.org/obo/AGRO_00002040	inorganic fertilizer	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_27870	inorganic fertilizers	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000083	fish meal	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_2925	fish meal	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000357	weather station	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_4781	meteorological stations	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000009	irrigation source	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_330794	irrigation sources	0.9	
-http://purl.obolibrary.org/obo/AGRO_00002042	vermicompost	skos:relatedMatch	http://aims.fao.org/aos/agrovoc/c_24528	vermicomposting	0.9	vermicomposts
-http://purl.obolibrary.org/obo/AGRO_00000092	mulch	skos:relatedMatch	http://aims.fao.org/aos/agrovoc/c_b219433a	stubble tillage	0.9	mulches
-http://purl.obolibrary.org/obo/AGRO_00000197	liming material	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_200	liming materials	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000075	green manure	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_3375	green manures	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000085	oil cake	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_5336	oilseed cakes	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000086	blood meal	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_966	blood meal	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000088	oil meal	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_5336	oilseed cakes	0.9	
-http://purl.obolibrary.org/obo/AGRO_00020001	biofertilizer	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_24975	biofertilizers	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000116	draft animal	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_10457	draught animals	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000325	crop	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_1972	crops	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000154	crop residue	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_16118	crop residues	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000037	aerial application	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_155	aerial application	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000046	deep placement	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_2151	deep placement	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000047	fertigation	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_15970	fertigation	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000048	foliar application	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_3008	foliar application	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000051	seed dressing	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_26820	seed dressing	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000052	soil injection	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_7175	soil injection	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000053	tree injection	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_7885	tree injection	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000412	dibbling	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_25720	dibbling	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000413	drilling	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_27912	seed drilling	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000409	automatic irrigation	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_722	automatic irrigation	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000272	kjeldahl method	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_25021	Kjeldahl method	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000329	split plot design	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_1410249722990	split plot design	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000036	application method	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_542	application methods	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000054	irrigation method	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_3957	irrigation methods	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000202	seeding rate	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_6944	sowing rates	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000328	slope orientation	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_1832474d	exposition	0.9	
-http://purl.obolibrary.org/obo/AGRO_00000299	farm area	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_2794	farm area	0.9	
-http://purl.obolibrary.org/obo/AGRO_00010002	tillage depth	skos:exactMatch	http://aims.fao.org/aos/agrovoc/c_d349db98	ploughing depth	0.9	
+AGRO:01000015	tillage	skos:exactMatch	agrovoc:c_7771	tillage	0.9	
+AGRO:00020004	deep tillage	skos:exactMatch	agrovoc:c_36704	deep tillage	0.9	
+AGRO:00000031	strip-till	skos:exactMatch	agrovoc:c_1516cbf3	strip tillage	0.9	
+AGRO:00000463	windrowing	skos:exactMatch	agrovoc:c_25674	windrowing	0.9	
+AGRO:00000204	heat treatment	skos:exactMatch	agrovoc:c_24947	heat treatment	0.9	"heat treatment in AGRV includes pasteurization, cooking, boiling, not only for pests. Use thermal control (alt thermal pest control agrovoc:c_34347 )"
+AGRO:00000210	steam treatment	skos:exactMatch	agrovoc:c_7381	steaming	0.9	"not only to kill pests, type of thermal pest control?Use thermal control (alt thermal pest control agrovoc:c_34347 ) or add steaming (pest control) as NT?"
+AGRO:00000430	rotational grazing	skos:exactMatch	agrovoc:c_6663	rotational grazing	0.9	
+AGRO:00000431	continuous grazing	skos:exactMatch	agrovoc:c_36542	continuous grazing	0.9	
+AGRO:00000432	strip grazing	skos:exactMatch	agrovoc:c_7456	strip grazing	0.9	
+AGRO:00000434	controlled grazing	skos:exactMatch	agrovoc:c_5497	controlled grazing	0.9	
+AGRO:00000322	treatment	skos:relatedMatch	agrovoc:c_27921	treatment date	0.9	application
+AGRO:00000481	monoculture	skos:exactMatch	agrovoc:c_4915	monoculture	0.9	
+AGRO:00000369	experiment	skos:relatedMatch	agrovoc:c_4126	laboratory animals	0.9	"Better ""experimentation""  attern experiments , trials"
+AGRO:00000115	ratoon	skos:relatedMatch	agrovoc:c_6462	ratooning	0.9	ratooons
+AGRO:00000076	farmyard manure	skos:exactMatch	agrovoc:c_2810	farmyard manure	0.9	
+AGRO:00000078	liquid manure	skos:exactMatch	agrovoc:c_4373	liquid manures	0.9	
+AGRO:00000080	poultry litter	skos:relatedMatch	agrovoc:c_434	litter for animals	0.9	"add ""poultry litter"", move from alttlterm? To look at"
+AGRO:00000081	fish manure	skos:exactMatch	agrovoc:c_27896	fish manure	0.9	
+AGRO:00000089	cottonseed meal	skos:exactMatch	agrovoc:c_35678	cottonseed meal	0.9	
+AGRO:00000093	plastic mulch	skos:exactMatch	agrovoc:c_13452	plastic mulches	0.9	
+AGRO:00000094	landscape fabric	skos:exactMatch	agrovoc:c_33499	geotextiles	0.9	add landscape fabric ?  To look at
+AGRO:00000098	straw mulch	skos:exactMatch	agrovoc:c_7442	straw mulches	0.9	
+AGRO:00002009	stubble	skos:exactMatch	agrovoc:c_16650	stubble	0.9	
+AGRO:00002010	husk	skos:relatedMatch	agrovoc:c_a93c44a4	Physalis philadelphica	0.9	husks
+AGRO:00002030	roller	skos:relatedMatch	agrovoc:c_26201	roller conveyers	0.9	rollers
+AGRO:00000139	manure spreader	skos:exactMatch	agrovoc:c_25990	manure spreaders	0.9	
+AGRO:00000396	seed drill	skos:relatedMatch	agrovoc:c_27912	seed drilling	0.9	seed drills
+AGRO:00000398	hoe	skos:relatedMatch	agrovoc:c_3642	hoeing	0.9	hoes
+AGRO:00000453	green manure	skos:relatedMatch	agrovoc:c_331154	Senna tora	0.9	sickles
+AGRO:00000455	flail	skos:relatedMatch	agrovoc:c_7739	threshing	0.9	flails
+AGRO:00000456	scythe	skos:exactMatch	agrovoc:c_0a9fbc47	scythes	0.9	
+AGRO:00000472	tedder	skos:exactMatch	agrovoc:c_7649	tedders	0.9	
+AGRO:00000473	combine harvester	skos:exactMatch	agrovoc:c_1775	combine harvesters	0.9	
+AGRO:00002027	baler	skos:exactMatch	agrovoc:c_793	balers	0.9	
+AGRO:00000129	mouldboard plough	skos:exactMatch	agrovoc:c_25695	mouldboard ploughs	0.9	
+AGRO:00000130	subsoiler	skos:exactMatch	agrovoc:c_25808	subsoilers	0.9	
+AGRO:00000131	chisel plough	skos:exactMatch	agrovoc:c_99dd11f2	chisel ploughs	0.9	
+AGRO:00000393	cultivator	skos:exactMatch	agrovoc:c_2019	cultivators	0.9	
+AGRO:00000398	hoe	skos:relatedMatch	agrovoc:c_3642	hoeing	0.9	hoes
+AGRO:00000124	tractor	skos:relatedMatch	agrovoc:c_7846	tractor cabs	0.9	tractors
+AGRO:00000241	irrigation equipment	skos:exactMatch	agrovoc:c_3955	irrigation equipment	0.9	
+AGRO:00000453	sickle	skos:relatedMatch	agrovoc:c_331154	Senna tora	0.9	sickles
+AGRO:00002008	mower	skos:relatedMatch	agrovoc:c_25726	conditioner mowers	0.9	mowers
+AGRO:00000075	green manure	skos:exactMatch	agrovoc:c_3375	green manures	0.9	
+AGRO:00000079	animal manure	skos:exactMatch	agrovoc:c_2810	farmyard manure	0.9	
+AGRO:00000085	oil cake	skos:exactMatch	agrovoc:c_5336	oilseed cakes	0.9	
+AGRO:00000086	blood meal	skos:exactMatch	agrovoc:c_966	blood meal	0.9	
+AGRO:00000088	oil meal	skos:exactMatch	agrovoc:c_5336	oilseed cakes	0.9	
+AGRO:00020001	biofertilizer	skos:exactMatch	agrovoc:c_24975	biofertilizers	0.9	
+AGRO:00002046	NPK fertilizer	skos:exactMatch	agrovoc:c_5250	NPK fertilizers	0.9	
+AGRO:00020007	nitrogen fertilizer	skos:exactMatch	agrovoc:c_5195	nitrogen fertilizers	0.9	
+AGRO:00020008	phosphorus fertilizer	skos:exactMatch	agrovoc:c_5800	phosphate fertilizers	0.9	
+AGRO:00020009	potassium fertilizer	skos:exactMatch	agrovoc:c_6138	potash fertilizers	0.9	
+AGRO:00002039	organic fertilizer	skos:exactMatch	agrovoc:c_4592	organic fertilizers	0.9	
+AGRO:00002040	inorganic fertilizer	skos:exactMatch	agrovoc:c_27870	inorganic fertilizers	0.9	
+AGRO:00000083	fish meal	skos:exactMatch	agrovoc:c_2925	fish meal	0.9	
+AGRO:00000357	weather station	skos:exactMatch	agrovoc:c_4781	meteorological stations	0.9	
+AGRO:00000009	irrigation source	skos:exactMatch	agrovoc:c_330794	irrigation sources	0.9	
+AGRO:00002042	vermicompost	skos:relatedMatch	agrovoc:c_24528	vermicomposting	0.9	vermicomposts
+AGRO:00000092	mulch	skos:relatedMatch	agrovoc:c_b219433a	stubble tillage	0.9	mulches
+AGRO:00000197	liming material	skos:exactMatch	agrovoc:c_200	liming materials	0.9	
+AGRO:00000075	green manure	skos:exactMatch	agrovoc:c_3375	green manures	0.9	
+AGRO:00000085	oil cake	skos:exactMatch	agrovoc:c_5336	oilseed cakes	0.9	
+AGRO:00000086	blood meal	skos:exactMatch	agrovoc:c_966	blood meal	0.9	
+AGRO:00000088	oil meal	skos:exactMatch	agrovoc:c_5336	oilseed cakes	0.9	
+AGRO:00020001	biofertilizer	skos:exactMatch	agrovoc:c_24975	biofertilizers	0.9	
+AGRO:00000116	draft animal	skos:exactMatch	agrovoc:c_10457	draught animals	0.9	
+AGRO:00000325	crop	skos:exactMatch	agrovoc:c_1972	crops	0.9	
+AGRO:00000154	crop residue	skos:exactMatch	agrovoc:c_16118	crop residues	0.9	
+AGRO:00000037	aerial application	skos:exactMatch	agrovoc:c_155	aerial application	0.9	
+AGRO:00000046	deep placement	skos:exactMatch	agrovoc:c_2151	deep placement	0.9	
+AGRO:00000047	fertigation	skos:exactMatch	agrovoc:c_15970	fertigation	0.9	
+AGRO:00000048	foliar application	skos:exactMatch	agrovoc:c_3008	foliar application	0.9	
+AGRO:00000051	seed dressing	skos:exactMatch	agrovoc:c_26820	seed dressing	0.9	
+AGRO:00000052	soil injection	skos:exactMatch	agrovoc:c_7175	soil injection	0.9	
+AGRO:00000053	tree injection	skos:exactMatch	agrovoc:c_7885	tree injection	0.9	
+AGRO:00000412	dibbling	skos:exactMatch	agrovoc:c_25720	dibbling	0.9	
+AGRO:00000413	drilling	skos:exactMatch	agrovoc:c_27912	seed drilling	0.9	
+AGRO:00000409	automatic irrigation	skos:exactMatch	agrovoc:c_722	automatic irrigation	0.9	
+AGRO:00000272	kjeldahl method	skos:exactMatch	agrovoc:c_25021	Kjeldahl method	0.9	
+AGRO:00000329	split plot design	skos:exactMatch	agrovoc:c_1410249722990	split plot design	0.9	
+AGRO:00000036	application method	skos:exactMatch	agrovoc:c_542	application methods	0.9	
+AGRO:00000054	irrigation method	skos:exactMatch	agrovoc:c_3957	irrigation methods	0.9	
+AGRO:00000202	seeding rate	skos:exactMatch	agrovoc:c_6944	sowing rates	0.9	
+AGRO:00000328	slope orientation	skos:exactMatch	agrovoc:c_1832474d	exposition	0.9	
+AGRO:00000299	farm area	skos:exactMatch	agrovoc:c_2794	farm area	0.9	
+AGRO:00010002	tillage depth	skos:exactMatch	agrovoc:c_d349db98	ploughing depth	0.9	

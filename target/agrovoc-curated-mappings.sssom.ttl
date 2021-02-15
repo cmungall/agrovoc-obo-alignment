@@ -1,0 +1,778 @@
+@prefix : <http://example.org/sssom/> .
+@prefix AGRO: <http://purl.obolibrary.org/obo/AGRO_> .
+@prefix agrovoc: <http://aims.fao.org/aos/agrovoc/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix sssom: <http://example.org/sssom/> .
+
+AGRO:00000009 skos:exactMatch agrovoc:c_330794 .
+
+AGRO:00000031 skos:exactMatch agrovoc:c_1516cbf3 .
+
+AGRO:00000036 skos:exactMatch agrovoc:c_542 .
+
+AGRO:00000037 skos:exactMatch agrovoc:c_155 .
+
+AGRO:00000046 skos:exactMatch agrovoc:c_2151 .
+
+AGRO:00000047 skos:exactMatch agrovoc:c_15970 .
+
+AGRO:00000048 skos:exactMatch agrovoc:c_3008 .
+
+AGRO:00000051 skos:exactMatch agrovoc:c_26820 .
+
+AGRO:00000052 skos:exactMatch agrovoc:c_7175 .
+
+AGRO:00000053 skos:exactMatch agrovoc:c_7885 .
+
+AGRO:00000054 skos:exactMatch agrovoc:c_3957 .
+
+AGRO:00000076 skos:exactMatch agrovoc:c_2810 .
+
+AGRO:00000078 skos:exactMatch agrovoc:c_4373 .
+
+AGRO:00000079 skos:exactMatch agrovoc:c_2810 .
+
+AGRO:00000080 skos:relatedMatch agrovoc:c_434 .
+
+AGRO:00000081 skos:exactMatch agrovoc:c_27896 .
+
+AGRO:00000083 skos:exactMatch agrovoc:c_2925 .
+
+AGRO:00000089 skos:exactMatch agrovoc:c_35678 .
+
+AGRO:00000092 skos:relatedMatch agrovoc:c_b219433a .
+
+AGRO:00000093 skos:exactMatch agrovoc:c_13452 .
+
+AGRO:00000094 skos:exactMatch agrovoc:c_33499 .
+
+AGRO:00000098 skos:exactMatch agrovoc:c_7442 .
+
+AGRO:00000115 skos:relatedMatch agrovoc:c_6462 .
+
+AGRO:00000116 skos:exactMatch agrovoc:c_10457 .
+
+AGRO:00000124 skos:relatedMatch agrovoc:c_7846 .
+
+AGRO:00000129 skos:exactMatch agrovoc:c_25695 .
+
+AGRO:00000130 skos:exactMatch agrovoc:c_25808 .
+
+AGRO:00000131 skos:exactMatch agrovoc:c_99dd11f2 .
+
+AGRO:00000139 skos:exactMatch agrovoc:c_25990 .
+
+AGRO:00000154 skos:exactMatch agrovoc:c_16118 .
+
+AGRO:00000197 skos:exactMatch agrovoc:c_200 .
+
+AGRO:00000202 skos:exactMatch agrovoc:c_6944 .
+
+AGRO:00000204 skos:exactMatch agrovoc:c_24947 .
+
+AGRO:00000210 skos:exactMatch agrovoc:c_7381 .
+
+AGRO:00000241 skos:exactMatch agrovoc:c_3955 .
+
+AGRO:00000272 skos:exactMatch agrovoc:c_25021 .
+
+AGRO:00000299 skos:exactMatch agrovoc:c_2794 .
+
+AGRO:00000322 skos:relatedMatch agrovoc:c_27921 .
+
+AGRO:00000325 skos:exactMatch agrovoc:c_1972 .
+
+AGRO:00000328 skos:exactMatch agrovoc:c_1832474d .
+
+AGRO:00000329 skos:exactMatch agrovoc:c_1410249722990 .
+
+AGRO:00000357 skos:exactMatch agrovoc:c_4781 .
+
+AGRO:00000369 skos:relatedMatch agrovoc:c_4126 .
+
+AGRO:00000393 skos:exactMatch agrovoc:c_2019 .
+
+AGRO:00000396 skos:relatedMatch agrovoc:c_27912 .
+
+AGRO:00000409 skos:exactMatch agrovoc:c_722 .
+
+AGRO:00000412 skos:exactMatch agrovoc:c_25720 .
+
+AGRO:00000413 skos:exactMatch agrovoc:c_27912 .
+
+AGRO:00000430 skos:exactMatch agrovoc:c_6663 .
+
+AGRO:00000431 skos:exactMatch agrovoc:c_36542 .
+
+AGRO:00000432 skos:exactMatch agrovoc:c_7456 .
+
+AGRO:00000434 skos:exactMatch agrovoc:c_5497 .
+
+AGRO:00000455 skos:relatedMatch agrovoc:c_7739 .
+
+AGRO:00000456 skos:exactMatch agrovoc:c_0a9fbc47 .
+
+AGRO:00000463 skos:exactMatch agrovoc:c_25674 .
+
+AGRO:00000472 skos:exactMatch agrovoc:c_7649 .
+
+AGRO:00000473 skos:exactMatch agrovoc:c_1775 .
+
+AGRO:00000481 skos:exactMatch agrovoc:c_4915 .
+
+AGRO:00002008 skos:relatedMatch agrovoc:c_25726 .
+
+AGRO:00002009 skos:exactMatch agrovoc:c_16650 .
+
+AGRO:00002010 skos:relatedMatch agrovoc:c_a93c44a4 .
+
+AGRO:00002027 skos:exactMatch agrovoc:c_793 .
+
+AGRO:00002030 skos:relatedMatch agrovoc:c_26201 .
+
+AGRO:00002039 skos:exactMatch agrovoc:c_4592 .
+
+AGRO:00002040 skos:exactMatch agrovoc:c_27870 .
+
+AGRO:00002042 skos:relatedMatch agrovoc:c_24528 .
+
+AGRO:00002046 skos:exactMatch agrovoc:c_5250 .
+
+AGRO:00010002 skos:exactMatch agrovoc:c_d349db98 .
+
+AGRO:00020004 skos:exactMatch agrovoc:c_36704 .
+
+AGRO:00020007 skos:exactMatch agrovoc:c_5195 .
+
+AGRO:00020008 skos:exactMatch agrovoc:c_5800 .
+
+AGRO:00020009 skos:exactMatch agrovoc:c_6138 .
+
+AGRO:01000015 skos:exactMatch agrovoc:c_7771 .
+
+AGRO:00000075 skos:exactMatch agrovoc:c_3375 .
+
+AGRO:00000085 skos:exactMatch agrovoc:c_5336 .
+
+AGRO:00000086 skos:exactMatch agrovoc:c_966 .
+
+AGRO:00000088 skos:exactMatch agrovoc:c_5336 .
+
+AGRO:00000398 skos:relatedMatch agrovoc:c_3642 .
+
+AGRO:00000453 skos:relatedMatch agrovoc:c_331154 .
+
+AGRO:00020001 skos:exactMatch agrovoc:c_24975 .
+
+[] a sssom:MappingSet ;
+    sssom:mappings [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "mouldboard ploughs" ;
+            sssom:subject_label "mouldboard plough" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000129 ;
+            owl:annotatedTarget agrovoc:c_25695 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "deep placement" ;
+            sssom:subject_label "deep placement" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000046 ;
+            owl:annotatedTarget agrovoc:c_2151 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "combine harvesters" ;
+            sssom:subject_label "combine harvester" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000473 ;
+            owl:annotatedTarget agrovoc:c_1775 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "Senna tora" ;
+            sssom:subject_label "green manure" ;
+            owl:annotatedProperty skos:relatedMatch ;
+            owl:annotatedSource AGRO:00000453 ;
+            owl:annotatedTarget agrovoc:c_331154 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "crop residues" ;
+            sssom:subject_label "crop residue" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000154 ;
+            owl:annotatedTarget agrovoc:c_16118 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "rotational grazing" ;
+            sssom:subject_label "rotational grazing" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000430 ;
+            owl:annotatedTarget agrovoc:c_6663 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "sowing rates" ;
+            sssom:subject_label "seeding rate" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000202 ;
+            owl:annotatedTarget agrovoc:c_6944 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "balers" ;
+            sssom:subject_label "baler" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00002027 ;
+            owl:annotatedTarget agrovoc:c_793 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "draught animals" ;
+            sssom:subject_label "draft animal" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000116 ;
+            owl:annotatedTarget agrovoc:c_10457 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "litter for animals" ;
+            sssom:subject_label "poultry litter" ;
+            owl:annotatedProperty skos:relatedMatch ;
+            owl:annotatedSource AGRO:00000080 ;
+            owl:annotatedTarget agrovoc:c_434 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "oilseed cakes" ;
+            sssom:subject_label "oil meal" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000088 ;
+            owl:annotatedTarget agrovoc:c_5336 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "foliar application" ;
+            sssom:subject_label "foliar application" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000048 ;
+            owl:annotatedTarget agrovoc:c_3008 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "Physalis philadelphica" ;
+            sssom:subject_label "husk" ;
+            owl:annotatedProperty skos:relatedMatch ;
+            owl:annotatedSource AGRO:00002010 ;
+            owl:annotatedTarget agrovoc:c_a93c44a4 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "geotextiles" ;
+            sssom:subject_label "landscape fabric" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000094 ;
+            owl:annotatedTarget agrovoc:c_33499 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "stubble tillage" ;
+            sssom:subject_label "mulch" ;
+            owl:annotatedProperty skos:relatedMatch ;
+            owl:annotatedSource AGRO:00000092 ;
+            owl:annotatedTarget agrovoc:c_b219433a ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "split plot design" ;
+            sssom:subject_label "split plot design" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000329 ;
+            owl:annotatedTarget agrovoc:c_1410249722990 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "strip tillage" ;
+            sssom:subject_label "strip-till" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000031 ;
+            owl:annotatedTarget agrovoc:c_1516cbf3 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "tedders" ;
+            sssom:subject_label "tedder" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000472 ;
+            owl:annotatedTarget agrovoc:c_7649 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "controlled grazing" ;
+            sssom:subject_label "controlled grazing" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000434 ;
+            owl:annotatedTarget agrovoc:c_5497 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "fish meal" ;
+            sssom:subject_label "fish meal" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000083 ;
+            owl:annotatedTarget agrovoc:c_2925 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "tractor cabs" ;
+            sssom:subject_label "tractor" ;
+            owl:annotatedProperty skos:relatedMatch ;
+            owl:annotatedSource AGRO:00000124 ;
+            owl:annotatedTarget agrovoc:c_7846 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "conditioner mowers" ;
+            sssom:subject_label "mower" ;
+            owl:annotatedProperty skos:relatedMatch ;
+            owl:annotatedSource AGRO:00002008 ;
+            owl:annotatedTarget agrovoc:c_25726 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "ploughing depth" ;
+            sssom:subject_label "tillage depth" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00010002 ;
+            owl:annotatedTarget agrovoc:c_d349db98 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "fertigation" ;
+            sssom:subject_label "fertigation" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000047 ;
+            owl:annotatedTarget agrovoc:c_15970 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "seed dressing" ;
+            sssom:subject_label "seed dressing" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000051 ;
+            owl:annotatedTarget agrovoc:c_26820 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "blood meal" ;
+            sssom:subject_label "blood meal" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000086 ;
+            owl:annotatedTarget agrovoc:c_966 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "laboratory animals" ;
+            sssom:subject_label "experiment" ;
+            owl:annotatedProperty skos:relatedMatch ;
+            owl:annotatedSource AGRO:00000369 ;
+            owl:annotatedTarget agrovoc:c_4126 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "aerial application" ;
+            sssom:subject_label "aerial application" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000037 ;
+            owl:annotatedTarget agrovoc:c_155 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "heat treatment" ;
+            sssom:subject_label "heat treatment" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000204 ;
+            owl:annotatedTarget agrovoc:c_24947 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "liming materials" ;
+            sssom:subject_label "liming material" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000197 ;
+            owl:annotatedTarget agrovoc:c_200 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "green manures" ;
+            sssom:subject_label "green manure" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000075 ;
+            owl:annotatedTarget agrovoc:c_3375 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "biofertilizers" ;
+            sssom:subject_label "biofertilizer" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00020001 ;
+            owl:annotatedTarget agrovoc:c_24975 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "application methods" ;
+            sssom:subject_label "application method" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000036 ;
+            owl:annotatedTarget agrovoc:c_542 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "blood meal" ;
+            sssom:subject_label "blood meal" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000086 ;
+            owl:annotatedTarget agrovoc:c_966 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "tree injection" ;
+            sssom:subject_label "tree injection" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000053 ;
+            owl:annotatedTarget agrovoc:c_7885 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "irrigation methods" ;
+            sssom:subject_label "irrigation method" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000054 ;
+            owl:annotatedTarget agrovoc:c_3957 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "dibbling" ;
+            sssom:subject_label "dibbling" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000412 ;
+            owl:annotatedTarget agrovoc:c_25720 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "deep tillage" ;
+            sssom:subject_label "deep tillage" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00020004 ;
+            owl:annotatedTarget agrovoc:c_36704 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "ratooning" ;
+            sssom:subject_label "ratoon" ;
+            owl:annotatedProperty skos:relatedMatch ;
+            owl:annotatedSource AGRO:00000115 ;
+            owl:annotatedTarget agrovoc:c_6462 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "biofertilizers" ;
+            sssom:subject_label "biofertilizer" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00020001 ;
+            owl:annotatedTarget agrovoc:c_24975 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "crops" ;
+            sssom:subject_label "crop" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000325 ;
+            owl:annotatedTarget agrovoc:c_1972 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "liquid manures" ;
+            sssom:subject_label "liquid manure" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000078 ;
+            owl:annotatedTarget agrovoc:c_4373 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "nitrogen fertilizers" ;
+            sssom:subject_label "nitrogen fertilizer" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00020007 ;
+            owl:annotatedTarget agrovoc:c_5195 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "steaming" ;
+            sssom:subject_label "steam treatment" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000210 ;
+            owl:annotatedTarget agrovoc:c_7381 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "hoeing" ;
+            sssom:subject_label "hoe" ;
+            owl:annotatedProperty skos:relatedMatch ;
+            owl:annotatedSource AGRO:00000398 ;
+            owl:annotatedTarget agrovoc:c_3642 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "farm area" ;
+            sssom:subject_label "farm area" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000299 ;
+            owl:annotatedTarget agrovoc:c_2794 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "inorganic fertilizers" ;
+            sssom:subject_label "inorganic fertilizer" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00002040 ;
+            owl:annotatedTarget agrovoc:c_27870 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "farmyard manure" ;
+            sssom:subject_label "farmyard manure" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000076 ;
+            owl:annotatedTarget agrovoc:c_2810 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "oilseed cakes" ;
+            sssom:subject_label "oil meal" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000088 ;
+            owl:annotatedTarget agrovoc:c_5336 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "organic fertilizers" ;
+            sssom:subject_label "organic fertilizer" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00002039 ;
+            owl:annotatedTarget agrovoc:c_4592 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "exposition" ;
+            sssom:subject_label "slope orientation" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000328 ;
+            owl:annotatedTarget agrovoc:c_1832474d ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "NPK fertilizers" ;
+            sssom:subject_label "NPK fertilizer" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00002046 ;
+            owl:annotatedTarget agrovoc:c_5250 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "treatment date" ;
+            sssom:subject_label "treatment" ;
+            owl:annotatedProperty skos:relatedMatch ;
+            owl:annotatedSource AGRO:00000322 ;
+            owl:annotatedTarget agrovoc:c_27921 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "cottonseed meal" ;
+            sssom:subject_label "cottonseed meal" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000089 ;
+            owl:annotatedTarget agrovoc:c_35678 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "stubble" ;
+            sssom:subject_label "stubble" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00002009 ;
+            owl:annotatedTarget agrovoc:c_16650 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "monoculture" ;
+            sssom:subject_label "monoculture" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000481 ;
+            owl:annotatedTarget agrovoc:c_4915 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "continuous grazing" ;
+            sssom:subject_label "continuous grazing" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000431 ;
+            owl:annotatedTarget agrovoc:c_36542 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "cultivators" ;
+            sssom:subject_label "cultivator" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000393 ;
+            owl:annotatedTarget agrovoc:c_2019 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "green manures" ;
+            sssom:subject_label "green manure" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000075 ;
+            owl:annotatedTarget agrovoc:c_3375 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "tillage" ;
+            sssom:subject_label "tillage" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:01000015 ;
+            owl:annotatedTarget agrovoc:c_7771 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "hoeing" ;
+            sssom:subject_label "hoe" ;
+            owl:annotatedProperty skos:relatedMatch ;
+            owl:annotatedSource AGRO:00000398 ;
+            owl:annotatedTarget agrovoc:c_3642 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "irrigation equipment" ;
+            sssom:subject_label "irrigation equipment" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000241 ;
+            owl:annotatedTarget agrovoc:c_3955 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "irrigation sources" ;
+            sssom:subject_label "irrigation source" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000009 ;
+            owl:annotatedTarget agrovoc:c_330794 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "soil injection" ;
+            sssom:subject_label "soil injection" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000052 ;
+            owl:annotatedTarget agrovoc:c_7175 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "plastic mulches" ;
+            sssom:subject_label "plastic mulch" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000093 ;
+            owl:annotatedTarget agrovoc:c_13452 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "seed drilling" ;
+            sssom:subject_label "drilling" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000413 ;
+            owl:annotatedTarget agrovoc:c_27912 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "subsoilers" ;
+            sssom:subject_label "subsoiler" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000130 ;
+            owl:annotatedTarget agrovoc:c_25808 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "oilseed cakes" ;
+            sssom:subject_label "oil cake" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000085 ;
+            owl:annotatedTarget agrovoc:c_5336 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "meteorological stations" ;
+            sssom:subject_label "weather station" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000357 ;
+            owl:annotatedTarget agrovoc:c_4781 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "potash fertilizers" ;
+            sssom:subject_label "potassium fertilizer" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00020009 ;
+            owl:annotatedTarget agrovoc:c_6138 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "roller conveyers" ;
+            sssom:subject_label "roller" ;
+            owl:annotatedProperty skos:relatedMatch ;
+            owl:annotatedSource AGRO:00002030 ;
+            owl:annotatedTarget agrovoc:c_26201 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "phosphate fertilizers" ;
+            sssom:subject_label "phosphorus fertilizer" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00020008 ;
+            owl:annotatedTarget agrovoc:c_5800 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "windrowing" ;
+            sssom:subject_label "windrowing" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000463 ;
+            owl:annotatedTarget agrovoc:c_25674 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "seed drilling" ;
+            sssom:subject_label "seed drill" ;
+            owl:annotatedProperty skos:relatedMatch ;
+            owl:annotatedSource AGRO:00000396 ;
+            owl:annotatedTarget agrovoc:c_27912 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "manure spreaders" ;
+            sssom:subject_label "manure spreader" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000139 ;
+            owl:annotatedTarget agrovoc:c_25990 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "straw mulches" ;
+            sssom:subject_label "straw mulch" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000098 ;
+            owl:annotatedTarget agrovoc:c_7442 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "Kjeldahl method" ;
+            sssom:subject_label "kjeldahl method" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000272 ;
+            owl:annotatedTarget agrovoc:c_25021 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "threshing" ;
+            sssom:subject_label "flail" ;
+            owl:annotatedProperty skos:relatedMatch ;
+            owl:annotatedSource AGRO:00000455 ;
+            owl:annotatedTarget agrovoc:c_7739 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "strip grazing" ;
+            sssom:subject_label "strip grazing" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000432 ;
+            owl:annotatedTarget agrovoc:c_7456 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "Senna tora" ;
+            sssom:subject_label "sickle" ;
+            owl:annotatedProperty skos:relatedMatch ;
+            owl:annotatedSource AGRO:00000453 ;
+            owl:annotatedTarget agrovoc:c_331154 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "chisel ploughs" ;
+            sssom:subject_label "chisel plough" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000131 ;
+            owl:annotatedTarget agrovoc:c_99dd11f2 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "oilseed cakes" ;
+            sssom:subject_label "oil cake" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000085 ;
+            owl:annotatedTarget agrovoc:c_5336 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "automatic irrigation" ;
+            sssom:subject_label "automatic irrigation" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000409 ;
+            owl:annotatedTarget agrovoc:c_722 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "farmyard manure" ;
+            sssom:subject_label "animal manure" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000079 ;
+            owl:annotatedTarget agrovoc:c_2810 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "scythes" ;
+            sssom:subject_label "scythe" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000456 ;
+            owl:annotatedTarget agrovoc:c_0a9fbc47 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "fish manure" ;
+            sssom:subject_label "fish manure" ;
+            owl:annotatedProperty skos:exactMatch ;
+            owl:annotatedSource AGRO:00000081 ;
+            owl:annotatedTarget agrovoc:c_27896 ],
+        [ a owl:Axiom ;
+            sssom:confidence "0.9"^^<xsd:double> ;
+            sssom:object_label "vermicomposting" ;
+            sssom:subject_label "vermicompost" ;
+            owl:annotatedProperty skos:relatedMatch ;
+            owl:annotatedSource AGRO:00002042 ;
+            owl:annotatedTarget agrovoc:c_24528 ] .
+
